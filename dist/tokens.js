@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Jan 2020 10:56:01 GMT
+ * Generated on Thu, 09 Jan 2020 12:02:56 GMT
  */
 
 export const ColorGray10 = "#f5f5f7";

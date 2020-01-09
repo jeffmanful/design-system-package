@@ -1,6 +1,6 @@
 {
-  "name": "ck-design-system-tokens",
-  "version": "1.0.0",
+  "name": "@jeffmanful/ck-design-system-tokens",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,13 @@
     "clean": "rm -rf build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffmanful/ck-design-system-tokens.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   },
   "keywords": [],
   "author": "",
