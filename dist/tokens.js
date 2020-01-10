@@ -1,10 +1,53 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Jan 2020 14:20:42 GMT
+ * Generated on Fri, 10 Jan 2020 15:58:12 GMT
  */
 
-export const ColorGray10 = "#f5f5f7";
+export const BoundariesFont = "667px";
+export const BoundariesSpacing = 731;
+export const ColorGray10 = "#f9f9fa";
 export const ColorGray20 = "#e0e2e6";
 export const ColorGray30 = "#c6c6cf";
 export const ColorGray40 = "#757580";
 export const ColorGray50 = "#303035";
+export const ColorCoral20 = "#ffeae5";
+export const ColorCoral30 = "#ffcec8";
+export const ColorCoral40 = "#f89790";
+export const ColorCoral50 = "#f55f55";
+export const ColorViolet10 = "#f3f4fc";
+export const ColorViolet20 = "#e0e2f8";
+export const ColorViolet30 = "#a4b1f4";
+export const ColorViolet40 = "#6a7fee";
+export const ColorViolet50 = "#333999";
+export const ColorWhite = "#ffffff";
+export const FontSizeSmFlea = 10;
+export const FontSizeSmPiolin = 12;
+export const FontSizeSmChihuahua = 15;
+export const FontSizeSmYorkie = 18;
+export const FontSizeSmMila = 22;
+export const FontSizeSmLulu = 26;
+export const FontSizeSmDalmation = 33;
+export const FontSizeSmHusky = 41;
+export const FontSizeSmDane = 52;
+export const FontSizeLgFlea = 12;
+export const FontSizeLgPiolin = 15;
+export const FontSizeLgChihuahua = 18;
+export const FontSizeLgYorkie = 22;
+export const FontSizeLgMila = 26;
+export const FontSizeLgLulu = 33;
+export const FontSizeLgDalmation = 41;
+export const FontSizeLgHusky = 52;
+export const FontSizeLgDane = 70;
+export const LineHeightCompact = 115;
+export const LineHeightNormal = 130;
+export const LineHeightSpacious = 150;
+export const SpacingSmMoon = 0.5;
+export const SpacingSmMars = 1.5;
+export const SpacingSmEarth = 2.5;
+export const SpacingSmSaturn = 4;
+export const SpacingSmSun = 5;
+export const SpacingLgMoon = 1;
+export const SpacingLgMars = 3;
+export const SpacingLgEarth = 5;
+export const SpacingLgSaturn = 8;
+export const SpacingLgSun = 10;

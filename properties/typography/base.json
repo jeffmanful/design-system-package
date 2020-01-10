@@ -1,0 +1,26 @@
+{
+  "font-size": {
+    "sm": {
+      "flea" : { "value": 10 },
+      "piolin": { "value": 12 },
+      "chihuahua"  : { "value": 15 },
+      "yorkie"  : { "value": 18 },
+      "mila"  : { "value": 22 },
+      "lulu"  : { "value": 26 },
+      "dalmation"  : { "value": 33 },
+      "husky"  : { "value": 41 },
+      "dane"  : { "value": 52 }
+    },
+    "lg": {
+      "flea" : { "value": 12 },
+      "piolin": { "value": 15 },
+      "chihuahua"  : { "value": 18 },
+      "yorkie"  : { "value": 22 },
+      "mila"  : { "value": 26 },
+      "lulu"  : { "value": 33 },
+      "dalmation"  : { "value": 41 },
+      "husky"  : { "value": 52 },
+      "dane"  : { "value": 70 }
+    }
+  }
+}

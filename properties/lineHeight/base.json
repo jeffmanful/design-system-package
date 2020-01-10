@@ -1,0 +1,8 @@
+
+{
+  "line-height": {
+    "compact": { "value": "115px" },
+    "normal": { "value": 130 },
+    "spacious": { "value": 150 }
+  }
+}

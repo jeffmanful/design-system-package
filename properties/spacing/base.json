@@ -1,0 +1,19 @@
+
+{
+  "spacing": {
+    "sm": {
+      "moon" : { "value": 0.5 },
+      "mars": { "value": 1.5 },
+      "earth"  : { "value": 2.5 },
+      "saturn"  : { "value": 4 },
+      "sun"  : { "value": 5 }
+    },
+    "lg": {
+      "moon" : { "value": 1 },
+      "mars": { "value": 3 },
+      "earth"  : { "value": 5 },
+      "saturn"  : { "value": 8 },
+      "sun"  : { "value": 10 }
+    }
+  }
+}

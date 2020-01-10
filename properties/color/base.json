@@ -7,6 +7,20 @@
       "30"  : { "value": "#C6C6CF" },
       "40"  : { "value": "#757580" },
       "50"  : { "value": "#303035" }
-    }
+    },
+    "coral": {
+      "20": { "value": "#FFEAE5" },
+      "30"  : { "value": "#FFCEC8" },
+      "40"  : { "value": "#F89790" },
+      "50"  : { "value": "#F55F55" }
+    },
+    "violet": {
+      "10" : { "value": "#F3F4FC" },
+      "20": { "value": "#E0E2F8" },
+      "30"  : { "value": "#A4B1F4" },
+      "40"  : { "value": "#6A7FEE" },
+      "50"  : { "value": "#333999" }
+    },
+    "white": { "value" : "#FFFFFF"}
   }
 }
