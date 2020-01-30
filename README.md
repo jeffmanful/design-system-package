@@ -1,2 +1,4 @@
 # Design-system-tokens
-Design system token package test
+An example of a design system package
+
+
